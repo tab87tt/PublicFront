@@ -2,10 +2,11 @@
 
 This project was created inside of Reactjs using html, css and javascript. The purpose of the project is to showcase my competencies as a full stack software developer. 
 
-See Projects > 21 & Sandwich Shop for further project code details.
+## 21:Game & SandwichShop 
+See src>Projects>21 & Sandwich Shop for further project code details.
 
 ## Compiled 'build' Folder
-I have included a build folder for simplicity, alternatively there are the script commands below while working with with pre-build code.
+I have included a build folder for simplicity, alternatively there are the script commands below while working with pre-build code.
 
 ## Available Scripts
 
