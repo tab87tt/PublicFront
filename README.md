@@ -1,9 +1,13 @@
 # T Thompson Portfolio - Front End
 
-This project was created inside of Reactjs using html, css and javascript. The purpose of the project is to showcase my competencies as a full stack software developer. 
+This project was created inside of Reactjs using html, css and javascript. The purpose of the project is to showcase my competencies as a full stack software developer.
+See src> for further details.
 
 ## 21:Game & SandwichShop 
-See src>Projects>21 & Sandwich Shop for further project code details.
+See src>Projects>21 & SandwichShop for further details.
+
+## Server - Back End
+See server>portfolioServer.js for further details.
 
 ## Compiled 'build' Folder
 I have included a build folder for simplicity, alternatively there are the script commands below while working with pre-build code.
