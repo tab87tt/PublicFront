@@ -9,7 +9,7 @@ See src>Projects>21 & SandwichShop for further details.
 ## Server - Back End
 See server>portfolioServer.js for further details.
 
-## Compiled 'build' Folder
+## 'build' Folder
 I have included a build folder for simplicity, alternatively there are the script commands below while working with pre-build code.
 
 ## Available Scripts
