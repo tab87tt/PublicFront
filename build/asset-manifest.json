@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df3ca9cf.chunk.css",
+    "main.js": "/static/js/main.9444dd46.chunk.js",
+    "main.js.map": "/static/js/main.9444dd46.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.733084d2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.733084d2.js.map",
+    "static/js/2.ce6584ec.chunk.js": "/static/js/2.ce6584ec.chunk.js",
+    "static/js/2.ce6584ec.chunk.js.map": "/static/js/2.ce6584ec.chunk.js.map",
+    "static/css/3.ca64a4d0.chunk.css": "/static/css/3.ca64a4d0.chunk.css",
+    "static/js/3.b04d0ce3.chunk.js": "/static/js/3.b04d0ce3.chunk.js",
+    "static/js/3.b04d0ce3.chunk.js.map": "/static/js/3.b04d0ce3.chunk.js.map",
+    "static/css/4.6cb2c9b5.chunk.css": "/static/css/4.6cb2c9b5.chunk.css",
+    "static/js/4.4a8ff6b9.chunk.js": "/static/js/4.4a8ff6b9.chunk.js",
+    "static/js/4.4a8ff6b9.chunk.js.map": "/static/js/4.4a8ff6b9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/3.ca64a4d0.chunk.css.map": "/static/css/3.ca64a4d0.chunk.css.map",
+    "static/css/4.6cb2c9b5.chunk.css.map": "/static/css/4.6cb2c9b5.chunk.css.map",
+    "static/css/main.df3ca9cf.chunk.css.map": "/static/css/main.df3ca9cf.chunk.css.map",
+    "static/js/2.ce6584ec.chunk.js.LICENSE.txt": "/static/js/2.ce6584ec.chunk.js.LICENSE.txt",
+    "static/media/GameLoading.e5879c4e.jpg": "/static/media/GameLoading.e5879c4e.jpg",
+    "static/media/GameProjectScreenShot3.3fe47bf0.jpg": "/static/media/GameProjectScreenShot3.3fe47bf0.jpg",
+    "static/media/Game.css": "/static/media/digital-7.93911ab1.ttf",
+    "static/media/PortfolioProjectScreenShot.899192e4.jpg": "/static/media/PortfolioProjectScreenShot.899192e4.jpg",
+    "static/media/ReminderLoading.044ce332.jpg": "/static/media/ReminderLoading.044ce332.jpg",
+    "static/media/ReminderProjectScreenShot3.dadb273e.jpg": "/static/media/ReminderProjectScreenShot3.dadb273e.jpg",
+    "static/media/SandwichLoading.e592ee65.jpg": "/static/media/SandwichLoading.e592ee65.jpg",
+    "static/media/SandwichProjectScreenShot3.695e27d3.jpg": "/static/media/SandwichProjectScreenShot3.695e27d3.jpg",
+    "static/media/Terry-sq-b&w.79614725.jpg": "/static/media/Terry-sq-b&w.79614725.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.733084d2.js",
+    "static/js/2.ce6584ec.chunk.js",
+    "static/css/main.df3ca9cf.chunk.css",
+    "static/js/main.9444dd46.chunk.js"
+  ]
+}

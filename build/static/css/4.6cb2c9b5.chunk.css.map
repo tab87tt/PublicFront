@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Projects/SandwichShop/components/stateless/Button/button.css"],"names":[],"mappings":"AAAA,QACI,0BAA2B,CAC3B,aAAc,CACd,gBAAiB,CACjB,UACJ","file":"4.6cb2c9b5.chunk.css","sourcesContent":[".button {\r\n    background-color: \"#d05bcf\";\r\n    padding: 12 20;\r\n    border-radius: 15;\r\n    color: #FFFFFF;\r\n}\r\n"]}

@@ -1,0 +1,35 @@
+.Game {
+  text-align: center;
+}
+
+@font-face {
+  font-family: 'digital-7';
+  src: local("digital-7"), url(./fonts/digital-7.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: "Mali-Regular";
+  src: local("Mali-Regular"), url(./fonts/Mali-Regular.ttf) format('truetype');
+}
+
+.doubleClick {
+  font-family: Mali-Regular;
+  color: red;
+  font-size: 2.7vh;
+  width: 18vh;
+  /* text-shadow: 0.08vh 0.08vh #000000, -0.08vh 0.08vh #000000, 0.08vh -0.08vh #000000, -0.08vh -0.08vh #000000; */
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+  position: absolute;
+  left: 12.8vh;
+  top: -4vh;
+  user-select: none;
+}
+
+.bombFont {
+  font-family: digital-7;
+}
+
+.retryPage {
+  font-family: Mali-Regular;
+}
