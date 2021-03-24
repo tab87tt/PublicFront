@@ -1,0 +1,15 @@
+{
+  "name": "portfolio-backend",
+  "version": "1.0.0",
+  "description": "Server-side code for my portolfio website serving the Reactjs app portfolio site.",
+  "main": "portfolioServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node portfolioServer"
+  },
+  "author": "T Thompson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
